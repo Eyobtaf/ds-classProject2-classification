@@ -1,2 +1,3 @@
 # ds-classProject2-classification
-Explain what this is about here.
+- Creat a classification model for teachers experience.
+- Create a regression model for ReducedFreeLunch using SES data
